@@ -5,6 +5,8 @@ import Button from './components/button';
 export default function App() {
   return (
     <View style={styles.container}>
+
+      <Text>Aun</Text>
       
       <Button />
 
