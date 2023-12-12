@@ -5,6 +5,9 @@ import Button from './components/button';
 export default function App() {
   return (
     <View style={styles.container}>
+
+      <Text>Ahamad here</Text>
+      <Text>Chnanged</Text>
       
       <Button />
 
