@@ -6,12 +6,9 @@ export default function App() {
   return (
     <View style={styles.container}>
 
-<<<<<<< HEAD
       <Text>Ahamad here</Text>
       <Text>Chnanged</Text>
-=======
       <Text>Aun</Text>
->>>>>>> ahmad
       
       <Button />
 
